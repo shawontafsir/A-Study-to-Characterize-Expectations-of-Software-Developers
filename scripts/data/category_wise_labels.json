@@ -1,0 +1,78 @@
+{
+  "What are your expectations from your organization?": {
+    "Work Benefits": ["timely salary", "proper salary", "proper food supply", "proper benefits"],
+    "Goal Achievement": ["share goal", "long term goal", "clear goal", "goal achievement"],
+    "Career Opportunities": ["career growth", "career security", "proper structure"],
+    "Work-place culture": ["overtime free", "politics free", "decent environment", "good relation", "work-life balance",
+      "maintain honesty"],
+    "Learning Opportunities":  ["learning", "opportunity", "decision making opportunity", "provide training"],
+    "Proper Management": ["proper guidance", "proper judgement", "proper recognition", "proper management"],
+    "Knack in Standard SE practice": ["challenging environment", "compatible business logic", "follow SE practices",
+      "apply effective technologies"]
+  },
+  "What are your expectations from your manager?": {
+    "People skill": ["guidance", "understanding team members", "proper behavior", "clear communication",
+      "professional behavior"],
+    "Proper Management": ["management skill", "master in project organizer", "proper hierarchy",
+      "proper accountability", "development contributor", "clear goal", "reasonable deadline",
+      "requirement collection skill"],
+    "Tech Savvy": ["technologically proficient", "technologically enthusiastic", "enthusiastic"],
+    "Career Opportunities": ["flexibility", "proper recognition", "training provider"]
+  },
+  "What are your expectations from the employees?": {
+    "Sincerity": ["proactive", "hard working", "passionate", "trustworthy", "sincere", "responsible"],
+    "Friendly": ["good behavior", "decent environment", "helpful", "good relationship"],
+    "Knack in Standard SE practice":  ["timely delivery", "technologically proficient", "clean code", "documentation",
+      "optimization"]
+  },
+  "What are your expectations from the universities?": {
+    "Industry oriented teaching": ["proper teaching", "teaching professional SE practices", "teaching cloud techs",
+      "practical teaching", "follow standard teaching practice", "teaching innovative technologies",
+      "behavioral teaching", "redesign the curriculam", "focus on reseach", "share research findings",
+      "improved insights"],
+    "Learning Environment": ["learning environment", "pressure free environment", "proper environment",
+      "focus on weak students", "focus on skills", "helpful to the students", "recommendations", "team work",
+      "team communication"],
+    "Career support": ["industry tour", "training", "seminar", "career talk", "collaboration with industry",
+      "manage internship"]
+  },
+  "What are your expectations from the new hires?": {
+    "Sincerity": ["maintain honesty", "good behavior", "transparency", "co-operative", "collaborative",
+      "solidarity", "sincere", "hard working", "adaptive", "progressive"],
+    "Knack in Standard SE practice": ["clean code", "professional", "having knowledge of CS", "responsible",
+      "problem-solving mind", "careful", "team player", "knowledge sharing", "technologically proficient"],
+    "Motivation for Learning": ["proactive", "enthusiastic", "better thinking", "self-learner", "quick learner",
+      "self-improvement"]
+  },
+  "What are your expectations from your peers in the team?": {
+    "Supportive attitude": ["supportive", "trustworthy", "maintain honesty", "good relationship", "clear communication",
+      "good behavior", "transparency", "proper recognition"],
+    "Knack in Standard SE practice": ["team player", "clean code practitioner", "timely delivery", "professional",
+      "code review", "responsible", "quality work", "understanding the role", "passionate", "achieving goal",
+      "sincere"],
+    "Learning Environment": ["brainstorming", "knowledge sharing", "tech learner", "better understanding",
+      "learner"]
+  },
+  "What are your expectations from the Government?": {
+    "Career Opportunities": ["development opportunity", "increase job opportunities",
+      "increase govt job opportunities", "attract tech-giants", "job fairs"],
+    "Policy and facility": ["ensure job security", "transparency", "easy tax process", "corruption-free",
+      "high speed internet with low cost", "enhance facilities", "apply labour law", "employee-friendly regulations",
+      "financial support"],
+    "Proper Education": ["braindrain reduction", "proper curriculam", "increase research fund",
+      "link with universities", "provide sholarship"],
+    "Support for industry": ["recognition of SE industry", "focus on SE industry", "tech-based competition",
+      "standardizing SE practices", "encouragement", "embrace global technologies"]
+  },
+  "What are your expectations from your peers and employees in the team?": {
+    "Supportive attitude": ["supportive", "trustworthy", "maintain honesty", "good relationship", "clear communication",
+      "good behavior", "transparency", "proper recognition", "decent environment", "helpful"],
+    "Knack in Standard SE practice": ["team player", "clean code practitioner", "timely delivery", "professional",
+      "code review", "responsible", "quality work", "understanding the role", "passionate", "achieving goal",
+      "sincere", "technologically proficient", "clean code", "documentation",
+      "optimization"],
+    "Learning Environment": ["brainstorming", "knowledge sharing", "tech learner", "better understanding",
+      "learner"],
+    "Sincerity": ["proactive", "hard working", "passionate", "trustworthy", "sincere", "responsible"]
+  }
+}
